@@ -3,6 +3,8 @@ To jest wersja demo 0.02V
 
 Przy kolejnym etapie projektu zaimplementuję: 
 
+- możliwość pracy w trybie "online" z wykorzystaniem mikrofonów
+
 - inne próbki dźwiekowe z różnym poziomem hałasów oraz hałasów o określonym paśmie
 akustycznym np. szum biały zamiast przy teście szumu urządzenia AGD.
 
